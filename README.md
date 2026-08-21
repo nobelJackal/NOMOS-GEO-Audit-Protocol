@@ -1,9 +1,16 @@
 # NOMOS GEO Audit Protocol v0.9.0 - Editorial Edition
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22040507.svg)](https://doi.org/10.5281/zenodo.22040507)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22040781.svg)](https://doi.org/10.5281/zenodo.22040781)
+[![Figshare](https://img.shields.io/badge/Figshare-Collection%2063MB-blue?logo=figshare)](https://doi.org/10.6084/m9.figshare.33306501)
+[![ORCID](https://img.shields.io/badge/ORCID-Kaan%20Muraz-A6CE39?logo=orcid)](https://orcid.org/0009-0000-2277-9009)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
 **The First Systematic Standard for Generative Engine Optimization (GEO)**
 
-**Author:** Kaan Muraz | NobleJackal / Biga Bilişim | Antalya, Turkey
-**ORCID:** 0009-0000-2277-9009 | **License:** CC BY 4.0
+**99 Mistakes That Destroy Visibility in ChatGPT, Perplexity, Gemini, Claude** - Companion to **GEO-Framework v1.0.0**
+
+Official Websites: [https://noblejackal.com/geo-framework/](https://noblejackal.com/geo-framework/) | [https://noblejackal.com/nomos-geo-audit-protocol/](https://noblejackal.com/nomos-geo-audit-protocol/)
 
 ### What is NOMOS?
 
@@ -11,40 +18,32 @@ NobleJackal NOMOS GEO Audit Protocol defines **GEO-1000**: A rigorous survey-bas
 
 Not a checklist - a measurement framework.
 
-**Core Standardization:**
-- 5 Measurement Units: Observation Unit (O_i), Sampling Unit, Analysis Unit, Inference Universe (T), Estimand (θ)
+### Core Standardization:
+
+- 5 Measurement Units: Observation Unit (O_i = E_i,A_i,U_i,C_i,L_i,S_i,P_i,T_i,R_i,K_i), Sampling Unit, Analysis Unit, Inference Universe (T), Estimand (θ)
 - Validity Framework: VALID, CONDITIONALLY VALID, INVALID, UNKNOWN
 - Estimand: θ_{E,A,P,S,W,T} = Pr(Y_i=1 | U_i ∈ T, E, A, P, S, W)
 - Prevalence Principle: p = valid records with event / total valid records
 
-### Downloads - 6 Languages (926 pages each)
+### PDF Downloads - 6 Languages (926 pages each)
 
-- **EN** - English [Canonical] - DOI: 10.5281/zenodo.22040507
-- **DE** - Deutsch - DOI: 10.5281/zenodo.22040781
-- **TR** - Türkçe - DOI: 10.5281/zenodo.22040776
-- **ES** - Español - DOI: 10.5281/zenodo.22040787
-- **RU** - Русский - DOI: 10.5281/zenodo.22040798
-- **AR** - العربية - DOI: 10.5281/zenodo.22040808
+- [EN - English [Canonical]](https://doi.org/10.5281/zenodo.22040507) - DOI: 10.5281/zenodo.22040507
+- [DE - Deutsch](https://doi.org/10.5281/zenodo.22040781) - DOI: 10.5281/zenodo.22040781
+- [TR - Türkçe](https://doi.org/10.5281/zenodo.22040776) - DOI: 10.5281/zenodo.22040776
+- [ES - Español](https://doi.org/10.5281/zenodo.22040787) - DOI: 10.5281/zenodo.22040787
+- [RU - Русский](https://doi.org/10.5281/zenodo.22040798) - DOI: 10.5281/zenodo.22040798
+- [AR - العربية](https://doi.org/10.5281/zenodo.22040808) - DOI: 10.5281/zenodo.22040808
 
-All PDFs attached in Releases.
+> All PDFs also in **Releases** and **Figshare Collection 63MB**
 
 ### Related DOIs
 
-- **GEO-Framework v1.0.0:** 10.5281/zenodo.21991762
-- **99 GEO Errors:** 10.5281/zenodo.21992388
-- **Figshare Collection (63MB):** 10.6084/m9.figshare.33306501
-- **Archive.org:** EN, DE, TR live, ES/RU/AR processing
+- **GEO-Framework v1.0.0:** [10.5281/zenodo.21991762](https://doi.org/10.5281/zenodo.21991762)
+- **99 GEO Errors:** [10.5281/zenodo.21992388](https://doi.org/10.5281/zenodo.21992388)
 
-### Official
-
-- Website: https://noblejackal.com/geo-framework/
-- Protocol: https://noblejackal.com/nomos-geo-audit-protocol/
-- Contact: Antalya, Turkey
+**Author:** Kaan Muraz | **ORCID:** [0009-0000-2277-9009](https://orcid.org/0009-0000-2277-9009) | **Biga Bilişim / NobleJackal, Antalya, Turkey**
+**License:** CC BY 4.0
 
 ### Citation
 
-Muraz, K. (2026). NOMOS GEO Audit Protocol v0.9.0. Zenodo. https://doi.org/10.5281/zenodo.22040507
-
-### License
-
-CC BY 4.0 - Free to use with attribution.
+Muraz, K. (2026). NOMOS GEO Audit Protocol v0.9.0 Editorial Edition. Zenodo. https://doi.org/10.5281/zenodo.22040507
