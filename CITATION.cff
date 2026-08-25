@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it using the metadata below."
+title: "NOMOS GEO Audit Protocol v0.9.0 — The GEO-1000 Method for Evaluating Entity Representation in Generative Systems — Editorial Edition"
+type: book
+version: 0.9.0
+date-released: 2026-08-21
+authors:
+  - family-names: "Muraz"
+    given-names: "Kaan"
+    orcid: "https://orcid.org/0009-0000-2277-9009"
+doi: "10.5281/zenodo.22040507"
+url: "https://noblejackal.com/nomos-geo-audit-protocol/"
+repository-code: "https://github.com/nobelJackal/NOMOS-GEO-Audit-Protocol"
+license: "CC-BY-4.0"
+keywords:
+  - "GEO-1000"
+  - "generative engine optimization"
+  - "entity representation"
+  - "audit protocol"
+  - "evidence"
+  - "multilingual publishing"
